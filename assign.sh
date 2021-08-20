@@ -19,7 +19,6 @@ done
 
 #Exercise 5
 echo "This script will exit with 0 status."
-exit 0
 
 #Exercise 6
 function count() {
@@ -27,3 +26,4 @@ function count() {
     echo The number of files are "$NOF"
 }
 count
+exit 0
